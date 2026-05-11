@@ -1,6 +1,12 @@
 # 🧠 AI Career Project Strategist — LangGraph Workflow
 
 <p align="left">
+  <a href="https://colab.research.google.com/github/s-badev/ai-career-project-strategist-langgraph/blob/main/AI_Career_Project_Strategist_LangGraph.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
   <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflow-purple" />
   <img src="https://img.shields.io/badge/LangChain-Agent%20Tools-green" />
